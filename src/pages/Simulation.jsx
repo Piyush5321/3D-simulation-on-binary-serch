@@ -23,7 +23,7 @@ export default function Simulation() {
     return (
         <main className="simulation-container">
             <div className="simulation-header">
-                <h1 className="simulation-title">Binary Search Simulation</h1>
+                <h1 className="simulation-title">Binary Search Visualizer</h1>
                 <p className="simulation-subtitle">
                     Visualize how binary search efficiently finds values in sorted data
                 </p>
@@ -38,7 +38,7 @@ export default function Simulation() {
                         className={`toggle-btn ${visualizationType === '3d' ? 'active' : ''}`}
                         onClick={() => setVisualizationType('3d')}
                     >
-                        3D View (Advanced)
+                        Advanced View
                     </button>
                 </div>
             </div>

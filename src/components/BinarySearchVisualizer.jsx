@@ -98,7 +98,7 @@ export default function BinarySearchVisualizer({ initialData = [2, 5, 8, 12, 15,
     return (
         <div className="visualizer-container">
             <div className="visualizer-card">
-                <h2 className="visualizer-title">3D Binary Search Visualization</h2>
+                <h2 className="visualizer-title">Binary Search Visualization</h2>
                 <CubeGrid3D
                     data={data}
                     currentStep={currentStep?.index || -1}
