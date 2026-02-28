@@ -4,14 +4,14 @@ A modern, interactive web application for visualizing binary search algorithms i
 
 ## Features
 
-✨ **3D Visualization** - Interactive 3D cube grid visualization using Three.js
-🎯 **Binary Search Algorithm** - Step-by-step visualization of binary search
-⚡ **Real-time Animation** - Control animation speed and playback
-📊 **Custom Data Entry** - Enter your own datasets to visualize
-🔐 **Firebase Authentication** - Secure login and signup
-📚 **Educational Examples** - Learn about different search algorithms
-🌙 **Dark/Light Theme** - Toggle between dark and light themes
-📱 **Responsive Design** - Works on desktop and mobile devices
+ **3D Visualization** - Interactive 3D cube grid visualization using Three.js
+**Binary Search Algorithm** - Step-by-step visualization of binary search
+ **Real-time Animation** - Control animation speed and playback
+ **Custom Data Entry** - Enter your own datasets to visualize
+**Firebase Authentication** - Secure login and signup
+ **Educational Examples** - Learn about different search algorithms
+ **Dark/Light Theme** - Toggle between dark and light themes
+ **Responsive Design** - Works on desktop and mobile devices
 
 ## Project Structure
 
